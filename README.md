@@ -19,6 +19,7 @@ This repositiory contains:
 - Data processing files to compute the phase diagrams and supporting figures
 
 ** Requirements**
+
 OpenFermion
 Qiskit <= 0.32.1
 [Cartan Quantum Synthesizer](https://github.com/kemperlab/cartan-quantum-synthesizer)
