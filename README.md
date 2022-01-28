@@ -18,7 +18,7 @@ This repositiory contains:
 - The source code used to generate and execute circuits on IBM quantum hardware using a free account
 - Data processing files to compute the phase diagrams and supporting figures
 
-** Requirements**
+**Requirements**
 
 OpenFermion
 Qiskit <= 0.32.1
