@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/452008057.svg)](https://zenodo.org/badge/latestdoi/452008057)
 
-# Mapping the metal-insulator phase diagram by algebraically fast-forwarding dynamicson a cloud quantum computer
+# Mapping the metal-insulator phase diagram by algebraically fast-forwarding dynamics on a cloud quantum computer
 
 Thomas Steckmann, Trevor Keen, Alexander F. Kemper, Eugene F. Dumitrescu, Yan Wang
 
